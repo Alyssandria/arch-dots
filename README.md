@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="Arch Linux Logo" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" alt="Arch Linux Logo" width="100"/>
 </p>
 
 <h1 align="center">My Arch linux powered by Omarchy setup</h1>
 
 <p align="center">
-  <img src="omarchy-logo.png" alt="Omarchy Logo" width="120"/>
+  <img src="https://raw.githubusercontent.com/basecamp/omarchy/3d283eac180933e1381508a3ab775c91cda1affc/logo.svg" alt="Omarchy Logo" width="120"/>
 </p>
 
 ---
