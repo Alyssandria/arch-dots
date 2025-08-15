@@ -1,5 +1,9 @@
 general.import = [ "~/.config/omarchy/current/theme/alacritty.toml" ]
 
+[scrolling]
+history = 5000
+multiplier = 3
+
 [env]
 TERM = "xterm-256color"
 
