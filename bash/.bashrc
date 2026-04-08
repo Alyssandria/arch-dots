@@ -23,3 +23,11 @@ export NVM_DIR="$HOME/.config/nvm"
 export PATH=$PATH:/usr/local/go/bin
 export PATH=$PATH:$(go env GOPATH)/bin
 export PATH="$PATH:$HOME/.config/composer/vendor/bin"
+
+# pnpm
+export PNPM_HOME="/home/alyssandria/.local/share/pnpm"
+case ":$PATH:" in
+  *":$PNPM_HOME:"*) ;;
+  *) export PATH="$PNPM_HOME:$PATH" ;;
+esac
+# pnpm end
